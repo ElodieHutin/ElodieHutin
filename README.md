@@ -3,7 +3,7 @@
 
 - 🔋 I’m currently working as **Data Scientist at Engie France.**
 
-- 🕵️ I'm interested **in working on Machine Learning, Predictive modeling and data analysis.**
+- 👀 I'm interested **in working on Machine Learning, Predictive modeling and data analysis.**
 
 - 👨‍💻 I develop **a churn rate forecasting model.**
 
@@ -32,7 +32,7 @@
 </p>
 
 <!-- Projects -->
-<h1 align="left">My latest projects 👨‍💻</h1>
+<h1 align="left">My latest projects 👩‍💻</h1>
 <div align="left">
   <table>
     <tr>
