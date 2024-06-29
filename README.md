@@ -47,8 +47,7 @@
                         A universitary project in big data analytics.
                       <p>
 
-<div align="right">
-  <table>
+
         <tr>
             <td width="50%">
                 <h3 align="center">
