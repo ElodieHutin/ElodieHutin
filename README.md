@@ -91,7 +91,7 @@
           </a>
         </p>
         <p align="center">
-          A university project description for your fourth project.
+          A university project to predict recessions in the United States.
         </p>
       </td>
     </tr>
