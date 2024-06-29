@@ -68,8 +68,61 @@
                 <p align="center">
                    <a href="https://github.com/ElodieHutin/Olympics_Game_Analysis" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Olympic_flag.svg"> </a>
                     <p align="center">
-                        A university project on wine quality prediction.
+                        A university project on the analysis of Olympic athletes' performance.
 
+
+<!-- Projects -->
+<h1 align="left">My latest projects 👨‍💻</h1>
+<div align="left">
+  <table>
+    <tr>
+      <!-- Premier projet -->
+      <td width="40%">
+        <h3 align="center">
+          <a href="https://github.com/ElodieHutin/Big_Data" target="_blank" rel="noreferrer"> Big Data </a>
+        </h3>
+        <p align="center">
+          <a href="https://github.com/ElodieHutin/Big_Data" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" height="80">
+          </a>
+        </p>
+        <p align="center">
+          A university project in big data analytics.
+        </p>
+      </td>
+      <!-- Deuxième projet -->
+      <td width="40%">
+        <h3 align="center">
+          <a href="https://github.com/ElodieHutin/Prediction_qualite_vin" target="_blank" rel="noreferrer"> Prediction of wine quality </a>
+        </h3>
+        <p align="center">
+          <a href="https://github.com/ElodieHutin/Prediction_qualite_vin" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/A_bottle_and_glass_of_wine.svg" width="80" height="80">
+          </a>
+        </p>
+        <p align="center">
+          A university project on wine quality prediction.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <!-- Troisième projet -->
+      <td colspan="2" align="center">
+        <h3 align="center">
+          <a href="https://github.com/ElodieHutin/Olympics_Game_Analysis" target="_blank" rel="noreferrer"> Analysis of the performance of Olympic host countries </a>
+        </h3>
+        <p align="center">
+          <a href="https://github.com/ElodieHutin/Olympics_Game_Analysis" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Olympic_flag.svg" width="80" height="80">
+          </a>
+        </p>
+        <p align="center">
+          A university project on the analysis of Olympic athletes' performance.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
