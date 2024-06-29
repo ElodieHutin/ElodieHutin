@@ -26,16 +26,16 @@
 
 
 <!-- Projects -->
-<h1 align="center">My latest projects 👨‍💻</h1>
-<div align="center">
+<h1 align="left">My latest projects 👨‍💻</h1>
+<div align="left">
   <table>
         <tr>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> Chillflix 🎶</a>
+                    <a href="https://github.com/ElodieHutin/Big_Data" target="_blank" rel="noreferrer"> Big Data </a>
                 </h3>
                 <p align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
+                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg alt="bigdata"/> </a>
                     <p align="center">
                         A chill radio from youtube to listen Lo-Fi music without being disturbed
                     </p>
