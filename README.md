@@ -22,8 +22,10 @@
 
 ### Languages and Tools:
 
+
+
 <p align="left">
-    <a href="https://www.sas.com/fr_fr/home.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">et<a href="https://www.r-project.org/" rel="noreferrer">
+  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">](https://www.python.org)et<a href="https://www.r-project.org/" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
   </a>
   
