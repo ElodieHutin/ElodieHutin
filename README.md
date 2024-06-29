@@ -57,3 +57,20 @@
                    <a href="https://github.com/ElodieHutin/Prediction_qualite_vin" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/A_bottle_and_glass_of_wine.svg"> </a>
                     <p align="center">
                         A university project on wine quality prediction.
+                    </p>
+       </p>
+            </td>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://github.com/ElodieHutin/Olympics_Game_Analysis" target="_blank" rel="noreferrer"> Analysis of the performance of Olympic host countries </a>
+                </h3>
+                <p align="center">
+                   <a href="https://github.com/ElodieHutin/Olympics_Game_Analysis" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Olympic_flag.svg"> </a>
+                    <p align="center">
+                        A university project on wine quality prediction.
+
+
+
+
+                       
