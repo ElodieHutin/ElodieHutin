@@ -44,4 +44,16 @@
                 <p align="center">
                    <a href="https://github.com/ElodieHutin/Big_Data" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"> </a>
                     <p align="center">
-                        A universitary project of big data analytics
+                        A universitary project in big data analytics.
+
+<div align="right">
+  <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://github.com/ElodieHutin/Prediction_qualite_vin" target="_blank" rel="noreferrer"> Big Data </a>
+                </h3>
+                <p align="center">
+                   <a href="https://github.com/ElodieHutin/Prediction_qualite_vin" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/A_bottle_and_glass_of_wine.svg"> </a>
+                    <p align="center">
+                        A university project on wine quality prediction.
