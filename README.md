@@ -80,6 +80,20 @@
         <p align="center">
           A university project on the analysis of Olympic athletes' performance.
         </p>
+<!-- Quatrième projet -->
+      <td width="40%">
+        <h3 align="center">
+          <a href="https://github.com/ElodieHutin/Predicting_US_recessions" target="_blank" rel="noreferrer"> Prediction US Recession </a>
+        </h3>
+        <p align="center">
+          <a href="https://github.com/ElodieHutin/Predicting_US_recessions
+ target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-crise.svg" width="80" height="80">
+          </a>
+        </p>
+        <p align="center">
+          A university project description for your fourth project.
+        </p>
       </td>
     </tr>
   </table>
