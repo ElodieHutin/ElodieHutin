@@ -45,9 +45,9 @@
                    <a href="https://github.com/ElodieHutin/Big_Data" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"> </a>
                     <p align="center">
                         A universitary project in big data analytics.
-                      <p>
-
-
+                    </p>
+       </p>
+            </td>
         <tr>
             <td width="50%">
                 <h3 align="center">
