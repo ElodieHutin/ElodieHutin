@@ -25,5 +25,24 @@
 
 
 
-
+<!-- Projects -->
+<h1 align="center">My latest projects 👨‍💻</h1>
+<div align="center">
+  <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> Chillflix 🎶</a>
+                </h3>
+                <p align="center">
+                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
+                    <p align="center">
+                        A chill radio from youtube to listen Lo-Fi music without being disturbed
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						I used Vue 2 and typescript. Also use webpack.
+					</details>
 
