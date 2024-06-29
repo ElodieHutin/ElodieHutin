@@ -35,9 +35,9 @@
                     <a href="https://github.com/ElodieHutin/Big_Data" target="_blank" rel="noreferrer"> Big Data </a>
                 </h3>
                 <p align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg alt="bigdata"/> </a>
+                    <a href="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg alt="bigdata"/> </a>
                     <p align="center">
-                        A chill radio from youtube to listen Lo-Fi music without being disturbed
+                        A universitary project of big data analytics
                     </p>
 					<details>
 						<summary>
