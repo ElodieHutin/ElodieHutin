@@ -37,7 +37,7 @@
 <div align="left">
   <table>
         <tr>
-            <td width="50%">
+            <td width="20%">
                 <h3 align="center">
                     <a href="https://github.com/ElodieHutin/Big_Data" target="_blank" rel="noreferrer"> Big Data </a>
                 </h3>
@@ -49,7 +49,7 @@
        </p>
             </td>
         <tr>
-            <td width="50%">
+            <td width="20%">
                 <h3 align="center">
                     <a href="https://github.com/ElodieHutin/Prediction_qualite_vin" target="_blank" rel="noreferrer"> Prediction of wine quality </a>
                 </h3>
@@ -61,7 +61,7 @@
        </p>
             </td>
         <tr>
-            <td width="50%">
+            <td width="20%">
                 <h3 align="center">
                     <a href="https://github.com/ElodieHutin/Olympics_Game_Analysis" target="_blank" rel="noreferrer"> Analysis of the performance of Olympic host countries </a>
                 </h3>
