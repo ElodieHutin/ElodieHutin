@@ -51,7 +51,7 @@
         <tr>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://github.com/ElodieHutin/Prediction_qualite_vin" target="_blank" rel="noreferrer"> Big Data </a>
+                    <a href="https://github.com/ElodieHutin/Prediction_qualite_vin" target="_blank" rel="noreferrer"> Prediction of wine quality </a>
                 </h3>
                 <p align="center">
                    <a href="https://github.com/ElodieHutin/Prediction_qualite_vin" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/A_bottle_and_glass_of_wine.svg"> </a>
