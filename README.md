@@ -5,9 +5,9 @@
 
 - 🕵️ I'm interested **in working on Machine Learning, Predictive modeling and data analysis.**
 
-- 👨‍💻 I develop **a churn rate forecasting model**
+- 👨‍💻 I develop **a churn rate forecasting model.**
 
-- 🌱 I'm a student **in data science in the TIDE Master's degree program at Paris 1 Panthéon Sorbonne University**
+- 🌱 I'm a student **in data science in the TIDE Master's degree program at Paris 1 Panthéon Sorbonne University.**
 
 - 🏩 I am looking to apply my knowledge **in applications of data science in the energy and environment sectors, as well as in government, the French defense, and healthcare.**
 
@@ -23,3 +23,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="python" width="40" height="40"/> </a> </p>
