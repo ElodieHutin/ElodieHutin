@@ -78,7 +78,8 @@
           </a>
         </p>
         <p align="center">
-          A university project on the analysis of Olympic athletes' performance.
+          A university project on the analysis 
+          of Olympic athletes' performance.
         </p>
 <!-- Quatrième projet -->
       <td width="40%">
