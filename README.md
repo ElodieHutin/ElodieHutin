@@ -11,7 +11,7 @@
 
 - 🏩 I am looking to apply my knowledge **in applications of data science in the energy and environment sectors, as well as in government, the French defense, and healthcare.**
 
-- 📫 How to reach me **elodihutin@gmail.com**
+- 📫 How to reach me :  **elodihutin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
